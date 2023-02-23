@@ -1,2 +1,2 @@
-tabs: ['index.js']
+tabs: ['README.md']
 terminals: ['static-server -ip 1337 --no-cache']
