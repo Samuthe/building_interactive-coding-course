@@ -1,0 +1,2 @@
+tabs: ['index.js']
+terminals: ['static-server -ip 1337 --no-cache']
